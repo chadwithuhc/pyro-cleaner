@@ -1,0 +1,8 @@
+/*@ cleaner module */
+#cleaner_m .buttons { clear: both }
+
+/* cache page */
+#cleaner_m #file_folders { display: block; float: left; padding: 10px; background: #eee }
+#cleaner_m #file_toggle { clear: both }
+#cleaner_m #file_array { display: none; clear: both }
+.cache_cleaner .buttons { padding: 10px 0 }
